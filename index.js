@@ -1,0 +1,13 @@
+console.log("My first javaScript code")
+var name="Rimsha Asghar"
+console.log("My name is" + name)
+//The only thing we have to fear is fear itself
+//Courage is being scared to death, but saddling up anyway
+//If you cannot do great things, do small things in a great way.
+//Well done is better than well said
+//Keep calm and carry on.
+/*Turn your wounds into wisdom.” ...
+"Life was meant to be lived, and curiosity must be kept alive. ...
+“Even if we don't have the power to choose where we come from, we can still choose where we go from there.” — ...
+“None but ourselves can free our minds.” ...
+“One person can make a difference, and everyone should try*/
