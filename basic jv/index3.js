@@ -46,6 +46,3 @@ console.log(num1)//10
 //console.log(++b)//8
 //console.log(++b)//9
 //console.log(++b)//10
- 
-
-

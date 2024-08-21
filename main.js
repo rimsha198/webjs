@@ -1,6 +1,0 @@
-console.log("hello word")
-console.log("hello kitty lovers")
-console.log("cat lover")
-console.log("hi")
-console.log("hy")
-console.log("hiiii")
